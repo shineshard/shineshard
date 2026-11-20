@@ -1,16 +1,13 @@
-## Hi there 👋
+# hello from Australia, i'm shineshard 👋
 
-<!--
-**shineshard/shineshard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer building reliable APIs and distributed services. Go & Python. Based in Australia.
 
-Here are some ideas to get you started:
+- probably overthinking a database schema right now
+- keeps notes about distributed microservices that will never be published
+- happy to pair on open-source stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=shineshard&hide_border=true&theme=rogue" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shineshard&hide_border=true&theme=radical" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Docker-58a6ff?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/FastAPI-58a6ff?style=for-the-badge&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Python-58a6ff?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-58a6ff?style=for-the-badge&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-58a6ff?style=for-the-badge&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Go-58a6ff?style=for-the-badge&logoColor=white" alt="Go" />
